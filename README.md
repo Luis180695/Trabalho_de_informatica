@@ -2,3 +2,7 @@
 
 ## QUEM SOU EU?
 
+
+# Soft Skills
+
+# Hard Sills
