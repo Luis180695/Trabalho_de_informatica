@@ -3,6 +3,6 @@
 ## QUEM SOU EU?
 
 
-# Soft Skills
+## Soft Skills
 
-# Hard Sills
+## Hard Sills
