@@ -11,6 +11,9 @@ Moro com meus pais, duas irmãs e uma sobrinha.
 
 ### - Curiosidades sobre mim
 
+Trabalho melhor ouvindo musica
+Já fui militar por um ano em caçapava
+
 
 ### - O que mais gosto de fazer nos seus momentos lazer? 
 
