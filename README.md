@@ -7,4 +7,4 @@
 
 ## Hard Sills
 
-![sprint backlog](https://https://github.com/Luis180695/Photo/blob/main/IMG_8417.jpg)
+![sprint backlog](https://github.com/Luis180695/Photo/blob/main/IMG_8417.jpg)
