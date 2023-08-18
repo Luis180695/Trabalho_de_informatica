@@ -41,6 +41,8 @@ Viajar uma vez ao ano para um estado diferente.
 
 Tenho como formação:
 
+![sprint backlog]([https://github.com/Luis180695/Photo/blob/main/IMG_8417.jpg](https://github.com/Luis180695/Photo/blob/main/FATEC.png))
+
 ### Gestão da Produção Industrial – (Cursando).
 FATEC - Faculdade de Tecnologia do Estado de São Paulo.
 
