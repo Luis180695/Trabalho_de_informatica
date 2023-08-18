@@ -11,8 +11,8 @@ Moro com meus pais, duas irmãs e uma sobrinha.
 
 ### - Curiosidades sobre mim
 
-Trabalho melhor ouvindo musica
-Já fui militar por um ano em caçapava
+Trabalho melhor ouvindo musica.
+Já fui militar por um ano em caçapava.
 
 
 ### - O que mais gosto de fazer nos seus momentos lazer? 
@@ -33,8 +33,10 @@ Tenho como formação:
 FATEC - Faculdade de Tecnologia do Estado de São Paulo.
 
 
+
 ### Técnico em Eletrotécnica – (Concluído em 2022).
 IFSP- Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
+
 
 
 ### Técnico em Eletrônica – (Concluído em 2017).
