@@ -9,20 +9,20 @@
   ![sprint backlog](https://github.com/Luis180695/Photo/blob/main/IMG_8417.jpg)
 
 
-# - Curiosidades sobre mim
+### - Curiosidades sobre mim
 
 
-# - O que mais gosto de fazer nos seus momentos lazer? 
+### - O que mais gosto de fazer nos seus momentos lazer? 
 
 
-# - Planos para o futuro:
+### - Planos para o futuro:
 
 Para meu futuro, pretendo morar sozinho em minha casa e pelo menos uma vez ao ano viajar para um estado diferente.
 
 
-# - Quem sou eu profissionalmente?
+### - Quem sou eu profissionalmente?
 
-Sou formado em Eltrônica e Eletrotécnica
+Sou formado em Eletrônica e Eletrotécnica.
 
 Atualmente sou Técnico em Manutenção Eletrônica e minhas principais atividades na empresa são:
 
@@ -33,7 +33,7 @@ Atualmente sou Técnico em Manutenção Eletrônica e minhas principais atividad
 - Solução de dúvidas de todos os produtos;
 
 
-# - Meus objetivos profissionais
+### - Meus objetivos profissionais
 
 Tenho como objetivo me 
 
