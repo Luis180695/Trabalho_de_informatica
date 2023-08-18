@@ -2,7 +2,7 @@
 
 ### Quem sou eu?
 
-![sprint backlog](https://github.com/Luis180695/.img/blob/main/Luis%202%20c%20fundo.png)
+![sprint backlog](https://github.com/Luis180695/.img/blob/main/IMG_8417.jpg)
 
 Me chamo: Luis Henrique dos Santos da Cruz
 
@@ -37,7 +37,7 @@ Viajar uma vez ao ano para um estado diferente.
 
 ### - Quem sou eu profissionalmente?
 
-![sprint backlog](https://github.com/Luis180695/Photo/blob/main/Luis%202%20c%20fundo.png)
+![sprint backlog](https://github.com/Luis180695/.img/blob/main/Luis%202%20c%20fundo.png)
 
 Tenho como formação:
 
