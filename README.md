@@ -5,21 +5,34 @@
 ![sprint backlog](https://github.com/Luis180695/Photo/blob/main/IMG_8417.jpg)
 
 Me chamo: Luis Henrique dos Santos da Cruz
+
 Tenho: 28 anos
+
 Moro com meus pais, duas irmãs e uma sobrinha.
 
 
 ### - Curiosidades sobre mim
 
 Trabalho melhor ouvindo musica.
+
 Já fui militar por um ano em caçapava.
 
+
 ### - O que mais gosto de fazer nos seus momentos lazer? 
+
+Gosto de sair com amigos 
+
+Maratonar séries 
 
 
 ### - Planos para o futuro:
 
-Para meu futuro, pretendo morar sozinho em minha casa e pelo menos uma vez ao ano viajar para um estado diferente.
+Morar sozinho.
+
+Fazer intercâmbio.
+
+Viajar uma vez ao ano para um estado diferente.
+
 
 
 ### - Quem sou eu profissionalmente?
@@ -40,7 +53,9 @@ IFSP- Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
 CEPHAS – Centro de Educação Profissional Hélio Augusto de Souza
 
 
+
 Atualmente sou Técnico em Manutenção Eletrônica e minhas principais atividades na empresa são:
+
 
 - Manutenção preventiva e corretiva de todos os produtos;
 - Reparos em componentes mecânicos e eletrônicos;
@@ -49,9 +64,10 @@ Atualmente sou Técnico em Manutenção Eletrônica e minhas principais atividad
 - Solução de dúvidas de todos os produtos;
 
 
+
 ### - Meus objetivos profissionais
 
-Tenho como objetivo me 
+Terminar o curso superir e entrar em uma multinacional. 
 
 
 
