@@ -2,7 +2,7 @@
 
 ### Quem sou eu?
 
-![sprint backlog](https://github.com/Luis180695/Photo/blob/main/IMG_8417.jpg)
+![sprint backlog](https://github.com/Luis180695/.img/blob/main/Luis%202%20c%20fundo.png)
 
 Me chamo: Luis Henrique dos Santos da Cruz
 
