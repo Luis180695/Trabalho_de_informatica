@@ -1,6 +1,6 @@
 # Trabalho_de_informatica
 
-## Quem sou eu?
+# Quem sou eu?
 
 * Me chamo: Luis Henrique dos Santos da Cruz
 * Tenho: 28 anos
