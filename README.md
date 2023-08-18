@@ -17,9 +17,23 @@
 
 # - Planos para o futuro:
 
+Para meu futuro, pretendo morar sozinho em minha casa e pelo menos uma vez ao ano viajar para um estado diferente.
+
 
 # - Quem sou eu profissionalmente?
 
+Sou formado em Eltrônica e Eletrotécnica
+
+Atualmente sou Técnico em Manutenção Eletrônica e minhas principais atividades na empresa são:
+
+- Manutenção preventiva e corretiva de todos os produtos;
+- Reparos em componentes mecânicos e eletrônicos;
+- Aplicar suporte em softwares;
+- Testes funcionais dos produtos;
+- Solução de dúvidas de todos os produtos;
+
 
 # - Meus objetivos profissionais
+
+Tenho como objetivo me 
 
