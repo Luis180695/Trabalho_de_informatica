@@ -17,3 +17,13 @@
 
 
 # # O que mais gosto de fazer nos seus momentos lazer? 
+
+
+# # Planos para o futuro:
+
+
+# # Quem sou eu profissionalmente?
+
+
+# # Meus objetivos profissionais
+
