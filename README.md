@@ -16,7 +16,7 @@
 * Moro com meus pais, duas irmãs e uma sobrinha.
 
 
-  ## Curiosidades sobre mim
+  ## - Curiosidades sobre mim
 
 
 # # O que mais gosto de fazer nos seus momentos lazer? 
