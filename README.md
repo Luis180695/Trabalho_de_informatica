@@ -8,6 +8,6 @@
 * Tenho: 28 anos
 
 
-![sprint backlog](https://github.com/Luis180695/Photo/blob/main/Imagem%20do%20WhatsApp%20de%202023-08-17%20%C3%A0(s)%2022.08.03.jpg).
+![sprint backlog](https://github.com/Luis180695/Photo/blob/main/Imagem%20do%20WhatsApp%20de%202023-08-17%20%C3%A0(s)%2022.08.03.jpg)
 
 * Moro com meus pais, duas irmãs e uma sobrinha.
