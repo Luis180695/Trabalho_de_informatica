@@ -15,17 +15,17 @@
 
 
 
-## - Curiosidades sobre mim
+# - Curiosidades sobre mim
 
 
-## - O que mais gosto de fazer nos seus momentos lazer? 
+# - O que mais gosto de fazer nos seus momentos lazer? 
 
 
-## - Planos para o futuro:
+# - Planos para o futuro:
 
 
-## - Quem sou eu profissionalmente?
+# - Quem sou eu profissionalmente?
 
 
-## - Meus objetivos profissionais
+# - Meus objetivos profissionais
 
