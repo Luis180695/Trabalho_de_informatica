@@ -39,7 +39,10 @@ IFSP- Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
 CEPHAS – Centro de Educação Profissional Hélio Augusto de Souza
 
 
+
 Atualmente sou Técnico em Manutenção Eletrônica e minhas principais atividades na empresa são:
+
+
 
 - Manutenção preventiva e corretiva de todos os produtos;
 - Reparos em componentes mecânicos e eletrônicos;
