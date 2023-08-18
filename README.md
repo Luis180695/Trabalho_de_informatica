@@ -25,6 +25,8 @@ Para meu futuro, pretendo morar sozinho em minha casa e pelo menos uma vez ao an
 
 ### - Quem sou eu profissionalmente?
 
+![sprint backlog](https://github.com/Luis180695/Photo/blob/main/Luis%202%20c%20fundo.png)
+
 Sou formado em Eletrônica e Eletrotécnica.
 
 Atualmente sou Técnico em Manutenção Eletrônica e minhas principais atividades na empresa são:
