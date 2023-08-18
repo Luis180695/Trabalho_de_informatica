@@ -29,9 +29,8 @@ Para meu futuro, pretendo morar sozinho em minha casa e pelo menos uma vez ao an
 
 Tenho como formação:
 
-Gestão da Produção Industrial – (Cursando).
-
-FATEC - Faculdade de Tecnologia do Estado de São Paulo.
+#Gestão da Produção Industrial – (Cursando).
+FATEC - Faculdade de Tecnologia do Estado de São Paulo.#
 
 Técnico em Eletrotécnica – (Concluído em 2022).
 
