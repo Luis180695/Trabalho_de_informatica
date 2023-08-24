@@ -37,7 +37,7 @@ Viajar uma vez ao ano para um estado diferente.
 
 ### - Quem sou eu profissionalmente?
 
-![sprint backlog](https://github.com/Luis180695/.img/blob/main/Luis%202%20c%20fundo.png)
+![sprint backlog](https://github.com/Luis180695/Trabalho_de_informatica/blob/main/img/Luis%202%20c%20fundo.png)
 
 Tenho como formação:
 
