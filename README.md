@@ -1,3 +1,18 @@
+# Trabalho_de_informatica
+
+### Quem sou eu?
+
+![sprint backlog](https://github.com/Luis180695/.img/blob/main/IMG_8417.jpg)
+
+Me chamo: Luis Henrique dos Santos da Cruz
+
+Tenho: 28 anos
+
+Moro com meus pais, duas irmãs e uma sobrinha.
+
+
+### - Curiosidades sobre mim
+
 Trabalho melhor ouvindo musica.
 
 Já fui militar por um ano em caçapava.
@@ -49,8 +64,3 @@ Atualmente sou Técnico em Manutenção Eletrônica e minhas principais atividad
 - Testes funcionais dos produtos;
 - Solução de dúvidas de todos os produtos;
 
-
-
-### - Meus objetivos profissionais
-
-Terminar o curso superir e entrar em uma multinacional. 
