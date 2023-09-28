@@ -64,3 +64,8 @@ Atualmente sou Técnico em Manutenção Eletrônica e minhas principais atividad
 - Testes funcionais dos produtos;
 - Solução de dúvidas de todos os produtos;
 
+
+
+### Soft Skills
+
+
