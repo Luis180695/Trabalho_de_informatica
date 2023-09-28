@@ -68,4 +68,8 @@ Atualmente sou Técnico em Manutenção Eletrônica e minhas principais atividad
 
 ### Soft Skills
 
+- Proatividade
+- Comprometimento
+  
+
 
