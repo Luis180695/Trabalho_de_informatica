@@ -70,6 +70,7 @@ Atualmente sou Técnico em Manutenção Eletrônica e minhas principais atividad
 
 - Proatividade
 - Comprometimento
+- Capacidade de seguir processos
   
 
 
